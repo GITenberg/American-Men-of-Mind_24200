@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24200#American-Men-of-Mind
 gutenberg_issued: '2008-01-07'
 gutenberg_type: Text
 identifiers:
